@@ -1,6 +1,5 @@
 # AUV-3D-Simulation
-<br />
-####**One of my projects developed during my summer internship at IIT-Madras in June-July 2017.**
+One of my projects developed during my summer internship at IIT-Madras in June-July 2017.
 <br />
 An autonomous underwater vehicle (AUV) is a robotic device that travels underwater by a propulsion system, controlled and piloted by an onboard computer, and maneuverable in three dimensions without requiring input from an operator. MAYA was India’s first Indigenously developed Autonomous Underwater Vehicle.
 <br />
